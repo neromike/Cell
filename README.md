@@ -1,2 +1,2 @@
-# cell
- 2D engine
+# Cell
+ 2D game engine
